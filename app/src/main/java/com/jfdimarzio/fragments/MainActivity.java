@@ -11,7 +11,7 @@ public class MainActivity extends Activity {
     @Override
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-
+/*
         FragmentManager fragmentManager = getFragmentManager();
         FragmentTransaction fragmentTransaction =
                 fragmentManager.beginTransaction();
@@ -37,7 +37,7 @@ public class MainActivity extends Activity {
                     android.R.id.content, fragment2);
         }
         fragmentTransaction.commit();
-
+*/
     }
 }
 
